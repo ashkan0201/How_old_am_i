@@ -22,6 +22,10 @@ To be error-free, please install the storage library
 ```bash
   pip install tabulate
 ```
+or
+```bash
+  pip install -r requirements.txt
+```
 
 ## My information
 
